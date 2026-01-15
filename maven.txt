@@ -2,12 +2,3 @@ implenting maven project.
 and generating package by giving command
 mvn package
 demomnstrating github webhook
-demonstrating poll scm
-abc
-xyz
-implementing github webhook
-wadmaw
-dsak 
-
-wq,mawdawd
-lasjhvd;abhsd
